@@ -1,73 +1,81 @@
 [
-	{
-		"heroContent": {
-			"title": "Tarbiyah Ideal School",
-			"subtitle": "Responsible to the Ummah."
-		},
-		"about": {
-			"title": "About our school",
-			"description": "We don’t just give students an education and experiences that set them up for success in a career. We help them succeed in their career—to discover a field they’re passionate about and dare to lead it. A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere.",
-			"social": {
-				"Facebook": "",
-				"linkedin": "",
-				"youtube": ""
-			}
-		},
-		"notice": [
-			{
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ..."
-			}
-		],
-		"ourFacilities": [
-			{
-				"title": "HOW YOUR CHILD CAN MAKE A DEEPER CONNECTION WITH THE QURAN",
-				"description": "Through Islamic Foundation School’s Sacred Link: Iqra program, your child can read or memorize the Quran with correct tajweed, learn about concepts in the Quran, and develop Islamic character. ..."
-			},
-			{
-				"title": "Special Features",
-				"points": {
-					"1": "An Excellent combination of Hifzul Quran and School (English Version)",
-					"2": "Digital Class Room with all modern facilities",
-					"3": "Online and Offline profile for each student",
-					"4": "Activity based and proper illustration based teaching method",
-					"5": "Participation in different national and international competitions, online and TV programs.",
-					"6": "Highly secured (CCTV Based monitoring for 24/7)",
-					"7": "Regular medical checkup with psychological support",
-					"8": "Stress free education system",
-					"9": "Special focus on ethics, culture and Islamic Sharia",
-					"10": "Own studio for video and audio recording with top notch technologies"
-				}
-			},
-			{
-				"title": "Academics",
-				"description": "School of child development offers education from pre-school to class five of a global standard. It offers both English Version and Hifzul Quran. ..."
-			}
-		],
-		"events": [{}],
-		"staffs": [
-			{
-				"image": "../images/teacher-1.jpg",
-				"name": "Dr. Mohammad Motiul Islam",
-				"title": "সহকারী অধ্যাপক, বাংলাদেশ ইসলামি বিশ্ববিদ্যালয়।",
-				"description": "বি.এ (অনার্স), এম.এ ইমাম মুহাম্মাদ ইবনে সৌদ ইসলামি বিশ্ববিদ্যালয়, সৌদি আরব\n\n পিএইচডি, ইসলামি বিশ্ববিদ্যালয়, কুষ্টিয়া।"
-			},
-			{
-				"image": "../images/teacher-2.jpg",
-				"name": "শাইখ সাদিক মুহাম্মদ ইয়াকুব আযহারী",
-				"title": "সহকারী অধ্যাপক, বাংলাদেশ ইসলামি বিশ্ববিদ্যালয়, ঢাকা।",
-				"description": "বি.এ (অনার্স), ইসলামি শরীয়াহ বিভাগ, আল-আযহার বিশ্ববিদ্যালয়, কায়রো, মিশর।\n\n এম.এ, দাওয়াহ ও ইসলামিক স্টাডিজ বিভাগ, দারুল ইহসান বিশ্ববিদ্যালয়, ঢাকা।\n\n এম.ফিল, আল-কুরআন ও ইসলামিক স্টাডিজ বিভাগ, ইসলামি বিশ্ববিদ্যালয়, কুষ্টিয়া।\n\n PGD in International Humanitarian Law, Nalsar University of Law, Hyderabad, India"
-			},
-			{
-				"image": "../images/teacher-3.jpg",
-				"name": "জনাব, এম. এম. ফজলে রাব্বি ",
-				"title": "সহকারী অধ্যাপক",
-				"description": "কম্পিউটার সায়েন্স এন্ড ইঞ্জিনিয়ারিং বিভাগ,\n বাংলাদেশ ইউনিভার্সিটি অফ বিজনেস এন্ড টেকনোলজি।\n\n সদস্য, একাডেমিক কমিটি,\n কুল্লিয়াতুল কুরআনিল কারীম ওয়াদ- দিরাসাতিল ইসলামিয়্যাহ, উত্তরা\n\n বি.এস.সি (অনার্স),\n ইউনিভার্সিটি অফ উইন্ডসর, কানাডা।\n এম.এস.সি (কম্পিউটার সায়েন্স),\nইউনিভার্সিটি অফ বেডফোর্ডশায়ার, ইংল্যান্ড।"
-			}
-		],
-		"contact": {
-			"email": "tarbiyah.office@gmail.com",
-			"phones": ["++880 1331070310", "+880 1331070311", "+880 1331070312"],
-			"address": "House: 13, Block: B, Main Road, Dakkhin Banasree, Khilgaon, Dhaka-1219."
-		}
-	}
+   {
+      "heroContent":{
+         "title":"Tarbiyah Ideal School",
+         "subtitle":"Responsible to the Ummah."
+      },
+      "about":{
+         "title":"About our school",
+         "description":"We don’t just give students an education and experiences that set them up for success in a career. We help them succeed in their career—to discover a field they’re passionate about and dare to lead it. A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere.",
+         "social":{
+            "Facebook":"",
+            "linkedin":"",
+            "youtube":""
+         }
+      },
+      "notice":[
+         {
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. ..."
+         }
+      ],
+      "ourFacilities":[
+         {
+            "title":"HOW YOUR CHILD CAN MAKE A DEEPER CONNECTION WITH THE QURAN",
+            "description":"Through Islamic Foundation School’s Sacred Link: Iqra program, your child can read or memorize the Quran with correct tajweed, learn about concepts in the Quran, and develop Islamic character. ..."
+         },
+         {
+            "title":"Special Features",
+            "points":{
+               "1":"An Excellent combination of Hifzul Quran and School (English Version)",
+               "2":"Digital Class Room with all modern facilities",
+               "3":"Online and Offline profile for each student",
+               "4":"Activity based and proper illustration based teaching method",
+               "5":"Participation in different national and international competitions, online and TV programs.",
+               "6":"Highly secured (CCTV Based monitoring for 24/7)",
+               "7":"Regular medical checkup with psychological support",
+               "8":"Stress free education system",
+               "9":"Special focus on ethics, culture and Islamic Sharia",
+               "10":"Own studio for video and audio recording with top notch technologies"
+            }
+         },
+         {
+            "title":"Academics",
+            "description":"School of child development offers education from pre-school to class five of a global standard. It offers both English Version and Hifzul Quran. ..."
+         }
+      ],
+      "events":[
+         {
+            
+         }
+      ],
+      "staffs":[
+         {
+            "image":"../images/teacher-1.jpg",
+            "name":"Dr. Mohammad Motiul Islam",
+            "title":"সহকারী অধ্যাপক, বাংলাদেশ ইসলামি বিশ্ববিদ্যালয়।",
+            "description":"বি.এ (অনার্স), এম.এ ইমাম মুহাম্মাদ ইবনে সৌদ ইসলামি বিশ্ববিদ্যালয়, সৌদি আরব\n\n পিএইচডি, ইসলামি বিশ্ববিদ্যালয়, কুষ্টিয়া।"
+         },
+         {
+            "image":"../images/teacher-2.jpg",
+            "name":"শাইখ সাদিক মুহাম্মদ ইয়াকুব আযহারী",
+            "title":"সহকারী অধ্যাপক, বাংলাদেশ ইসলামি বিশ্ববিদ্যালয়, ঢাকা।",
+            "description":"বি.এ (অনার্স), ইসলামি শরীয়াহ বিভাগ, আল-আযহার বিশ্ববিদ্যালয়, কায়রো, মিশর।\n\n এম.এ, দাওয়াহ ও ইসলামিক স্টাডিজ বিভাগ, দারুল ইহসান বিশ্ববিদ্যালয়, ঢাকা।\n\n এম.ফিল, আল-কুরআন ও ইসলামিক স্টাডিজ বিভাগ, ইসলামি বিশ্ববিদ্যালয়, কুষ্টিয়া।\n\n PGD in International Humanitarian Law, Nalsar University of Law, Hyderabad, India"
+         },
+         {
+            "image":"../images/teacher-3.jpg",
+            "name":"জনাব, এম. এম. ফজলে রাব্বি ",
+            "title":"সহকারী অধ্যাপক",
+            "description":"কম্পিউটার সায়েন্স এন্ড ইঞ্জিনিয়ারিং বিভাগ,\n বাংলাদেশ ইউনিভার্সিটি অফ বিজনেস এন্ড টেকনোলজি।\n\n সদস্য, একাডেমিক কমিটি,\n কুল্লিয়াতুল কুরআনিল কারীম ওয়াদ- দিরাসাতিল ইসলামিয়্যাহ, উত্তরা\n\n বি.এস.সি (অনার্স),\n ইউনিভার্সিটি অফ উইন্ডসর, কানাডা।\n এম.এস.সি (কম্পিউটার সায়েন্স),\nইউনিভার্সিটি অফ বেডফোর্ডশায়ার, ইংল্যান্ড।"
+         }
+      ],
+      "contact":{
+         "email":"tarbiyah.office@gmail.com",
+         "phones":[
+            "++880 1331070310",
+            "+880 1331070311",
+            "+880 1331070312"
+         ],
+         "address":"House: 13, Block: B, Main Road, Dakkhin Banasree, Khilgaon, Dhaka-1219."
+      }
+   }
 ]
